@@ -1,7 +1,10 @@
 [user]
-  name = Jim OKelly
-  email = jim@devschool.rocks
+  name = Paolo De Armas
+  email = paolodearmas@gmail.com
 
+[github]
+  user = pdearmas
+  
 [color]
   diff = auto
   status = auto
@@ -30,8 +33,6 @@
 [rerere]
   enabled = 1
 
-[github]
-  user = JimOKelly
 
 [merge]
   ff = only
